@@ -1,5 +1,5 @@
 # KVK
-<h1 align="center">Hi 👋, I'm KASANI VIGNESH KUMAR</h1>
+<h1 align="center">Hi 👋, I'm  VIGNESH KUMAR KASANI</h1>
 <h3 align="center">A passionate Cyber Security aspirant </h3>
 
 <p align="center">

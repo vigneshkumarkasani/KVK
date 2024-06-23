@@ -2,6 +2,10 @@
 <h1 align="center">Hi 👋, I'm KASANI VIGNESH KUMAR</h1>
 <h3 align="center">A passionate Cyber Security aspirant from India</h3>
 
+<p align="center">
+  <img src="https://i.pinimg.com/originals/4e/e8/98/4ee8988e43cbc78aa61e0c89ddb57144.gif" alt="coding" width="400">
+</p>
+
 - 🔭 I’m currently working on **DDOS detection system**
 
 - 🌱 I’m currently learning **B-tech Computer science (Cyber security)**

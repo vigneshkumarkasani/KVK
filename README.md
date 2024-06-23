@@ -1,5 +1,5 @@
 # KVK
-<h1 align="center">Hi 👋, I'm  VIGNESH KUMAR KASANI</h1>
+<h1 align="center">Hello 👋, I'm  VIGNESH KUMAR KASANI</h1>
 <h3 align="center">A passionate Cyber Security aspirant </h3>
 
 <p align="center">
@@ -15,6 +15,10 @@
 - 📫 How to reach me **vigneshkumar3233@gmail.com**
 
 - ⚡ Fun fact **I am not Dead💀**
+- ### Network
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

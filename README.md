@@ -23,9 +23,6 @@
 
 </div>
 
-<div>
-<img src="https://tryhackme-badges.s3.amazonaws.com/vigneshkumar.png" alt="TryHackMe">
-</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
